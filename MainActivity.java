@@ -26,14 +26,14 @@ public class MainActivity extends AppCompatActivity {
     };
 
     String[] posicoes = {
-            "Meia",
-            "Atacante",
-            "Atacante",
-            "Centroavante",
-            "Meia-atacante",
-            "Camisa 10",
-            "Atacante",
-            "Atacante"
+            "Maestro.",
+            "O Príncipe Francês.",
+            "O Princípe.",
+            "O Maior 9 da história.",
+            "O Bruxo.",
+            "O Alienígena.",
+            "G.O.A.T.",
+            "O Rei."
     };
 
     String[] nacionalidades = {
